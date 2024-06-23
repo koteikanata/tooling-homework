@@ -63,7 +63,7 @@
 
 ## Performance
 
-Профиль загрузки [JSON](./sources/performance-trace-20240619T173131.json)
+Профиль загрузки [JSON](https://disk.yandex.ru/d/IUm57jdiTZvIIw)
 
 ### Время в миллисекундах от начала навигации до событий
 
@@ -153,7 +153,8 @@ data-gtm-vis-recent-on-screen30172849_1043="4197" data-gtm-vis-first-on-screen30
 
 ## Performance
 
-Профиль загрузки [JSON](./sources/performance-slow-trace-20240619T181729.json)
+Профиль загрузки [JSON](https://disk.yandex.ru/d/IUm57jdiTZvIIw)
+
 
 ### Время в миллисекундах от начала навигации до событий
 
