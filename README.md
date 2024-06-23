@@ -63,7 +63,7 @@
 
 ## Performance
 
-Профиль загрузки [JSON](https://disk.yandex.ru/d/IUm57jdiTZvIIw)
+Профиль загрузки [JSON](https://disk.yandex.ru/d/QKQDUJTHvbeeSg)
 
 ### Время в миллисекундах от начала навигации до событий
 
